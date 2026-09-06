@@ -1,0 +1,76 @@
+﻿l_english:
+ #Leaders
+ #Focuses
+ #: ""
+ #_desc: ""
+ #: ""
+ #_desc: ""
+ #: ""
+ #_desc: ""
+ #: ""
+ #_desc: ""
+ #: ""
+ #_desc: ""
+ #: ""
+ #_desc: ""
+ #Ideas
+ idea_ISR_american_funding: "American Funding"
+ idea_ISR_american_funding_desc: "O' America, Home of the Brave, Land of the Free, has long used Israel as a foothold in the turbulent Middle East, and from that decision, we have profited from their support. \n\nIF THE UNITED STATES CEASES TO EXIST OR CHOOSES TO STOP SUPPORTING US, OUR DOMINANCE IN THE MIDDLE EAST WILL BE QUESTIONED BY OUR NEIGHBORS."
+ idea_ISR_vanguard_of_judaism: "Vanguard of Judaism"
+ ISR_french_funding_idea: "French Funding"
+ ISR_french_funding_idea_desc: "Although not as... robust... as our former American funding, the French government is very kind to be giving us some support."
+ 
+ ISR_kahanism: "Kahanism"
+ #Decision Categories
+ #Missions
+ #Decisions
+ #Country Flag
+ #Tooltips
+ #Faction
+ #Parties
+ #Country
+ ISR: "State of Israel"
+ ISR_DEF: "the State of Israel"
+ ISR_ADJ: "Israeli"
+ #Events
+ israel.1.t: "Trump Peace Plan Proposal"
+ israel.1.d: ""
+ israel.1.a: "We shall move in to the West Bank"
+ israel.1.b: "An Israeli Marshall Plan!"
+ israel.2.t: "Lehava Marches"
+ israel.2.d: ""
+ israel.2.a: "They are getting in the way of peace!"
+ israel.2.b: "We need a One State Solution!"
+ israel.3.t: "Netanyahu declares National Emergency"
+ israel.3.d: ""
+ israel.3.a: "Yes Netanyahu!"
+ israel.4.t: "Unity Government Proclaimed"
+ israel.4.d: ""
+ israel.4.a: "Yippee!"
+ israel.5.t: "Unity Government collapses"
+ israel.5.d: ""
+ israel.5.a: "Shit"
+ israel.6.t: "Operation Fallen Goliath"
+ israel.6.d: ""
+ israel.6.a: "We will never be exterminated..."
+ israel.7.t: "Palestianian Government Protests Action"
+ israel.7.d: ""
+ israel.7.a: "Don't they always?"
+ israel.8.t: "Palestianian Government Calls for Volunteers"
+ israel.8.d: ""
+ israel.8.a: "Worrying..."
+ israel.9.t: "Hikmat Tamimi Killed"
+ israel.9.d: ""
+ israel.9.a: "Keep an eye on the Situation"
+ israel.11.t: "Hamas Mobilizes"
+ israel.11.d: ""
+ israel.11.a: "Shit is hitting the fan..."
+ israel.12.t: "4th Intifada Declared"
+ israel.12.d: ""
+ israel.12.a: "Oh fuck"
+ israel.10.t: "New Israeli President Inaugurated"
+ israel.10.d: ""
+ israel.10.a: "Congrats President Herzog"
+ 
+ #spec Ideology
+ ISR_right_zionism: "Right Zionism"

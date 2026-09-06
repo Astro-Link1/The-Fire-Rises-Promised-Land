@@ -189,12 +189,15 @@
 	}
 
 	set_popularities = {
-		authoritarian_democrat = 5.7
-		conservative = 40
-		social_liberal = 36.9
-		social_democrat = 8
-		market_liberal = 4
-		communist = 5.4
+		authoritarian_democrat = 13
+		conservative = 26.8
+		social_liberal = 27.6
+		social_democrat = 9.3
+		market_liberal = 5.8
+		libertarian_socialist = 10.8
+		nationalist = 6.7
+		fascist = 0
+		
 	}
 
 	ISR = {
