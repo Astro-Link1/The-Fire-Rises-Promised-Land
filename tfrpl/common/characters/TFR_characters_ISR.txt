@@ -1,0 +1,43 @@
+	characters={
+		ISR_reuven_rivlin_char = {
+			portraits = {
+				civilian = {
+					large = "gfx/leaders/ISR/Reuven Rivlin.png"
+				}
+			}
+			country_leader = {
+				ideology = national_conservativism_con
+				expire = "1.1.1.1"
+				id=-1
+			}
+		}	
+		ISR_benjamin_netanyahu_char = {
+			portraits = {
+				civilian = {
+					large = "gfx/leaders/ISR/ISR_benjamin_netanyahu.png"
+				}
+			}
+			country_leader = {
+				ideology = national_conservativism_con
+				expire = "1.1.1.1"
+				id=-1
+			}
+		}
+		ISR_isaac_herzog_char = {
+			portraits = {
+				civilian = {
+					large = "gfx/leaders/ISR/Isaac Herzog.png"
+				}
+			}
+			country_leader = {
+				ideology = progressivism
+				expire = "1.1.1.1"
+				id=-1
+			}
+			country_leader = {
+				ideology = national_conservativism_con
+				expire = "1.1.1.1"
+				id=-1
+			}
+		}
+	}

@@ -1,0 +1,32 @@
+samson_ISR = {
+	icon = united_states
+
+	allowed = {
+		original_tag = ISR
+	}
+}
+
+ISR_arab_war = {
+	icon = united_states
+
+	allowed = {
+		original_tag = ISR
+		OR = {
+			has_global_flag = SOV_first_nato_war_victory
+			has_global_flag = nato_nato_won_nato_war
+		}
+	}
+}
+
+ISR_GER_solomon = {
+	icon = united_states
+    picture = decision_cat_GER_ISR_solomon
+	allowed = {
+		original_tag = GER
+	}
+	visible = {
+		GER = { has_country_flag = GER_arab_israeli_war_flag }
+		ISR = { has_war = yes }	
+	}
+	visible_when_empty = yes
+}

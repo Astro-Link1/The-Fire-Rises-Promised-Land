@@ -74,3 +74,16 @@
  
  #spec Ideology
  ISR_right_zionism: "Right Zionism"
+
+ #Scripted Loc
+ ISR_knesset_faction_arab_list_loc: "\n\n§GArab List§! Party Popularity: [?ROOT.party_popularity@libertarian_socialist|Y%1] \n§GArab List§! Support: [?ISR_support_arab_list_var|Y1%] [ISR_knesset_faction_arab_list_allignment_text]"
+ ISR_knesset_faction_labour/meretz_loc: "\n\n§RLabour/Meretz§! Party Popularity: [?ROOT.party_popularity@social_democrat|Y%1] \n§RLabour/Meretz§! Support: [?ISR_support_labour/meretz_var|Y1%] [ISR_knesset_faction_labour/meretz_allignment_text]"
+ ISR_knesset_faction_blue_white_loc: "\n\n§BBlue and White§! Party Popularity: [?ROOT.party_popularity@social_liberal|Y%1] \n§BBlue and White§! Support: [?ISR_support_blue_white_var|Y1%] [ISR_knesset_faction_blue_white_allignment_text]"
+ ISR_knesset_faction_new_right_loc: "\n\n§YNew Right/National Union§! Party Popularity: [?ROOT.party_popularity@market_liberal|Y%1] \n§YNew Right/National Union§! Support: [?ISR_support_new_right_var|Y1%] [ISR_knesset_faction_new_right_allignment_text]"
+ ISR_knesset_faction_likud_loc: "\n\n§CLikud§! Party Popularity: [?ROOT.party_popularity@conservative|Y%1] \n§CLikud§! Support: [?ISR_support_likud_var|Y1%] [ISR_knesset_faction_likud_allignment_text]"
+ ISR_knesset_faction_shas_torah_loc: "\n\n§gShas/Torah Judaism§! Party Popularity: [?ROOT.party_popularity@authoritarian_democrat|Y%1] (£GFX_war_support_texticon [?ISR_shas_torah_popularity_dynamic_var|=+1%])\n§gShas/Torah Judaism§! Support: [?ISR_support_shas_torah_var|Y1%] [ISR_knesset_faction_shas_torah_allignment_text]"
+ ISR_faction_allignment_very_supportive_loc: "($ISR_faction_allignment_very_supportive_name$)"
+ ISR_faction_allignment_supportive_loc: "($ISR_faction_allignment_supportive_name$)"
+ ISR_faction_allignment_indifferent_loc: "($ISR_faction_allignment_indifferent_name$)"
+ ISR_faction_allignment_adversive_loc: "($ISR_faction_allignment_adversive_name$)"
+ ISR_faction_allignment_very_adversive_loc: "($ISR_faction_allignment_very_adversive_name$)"
