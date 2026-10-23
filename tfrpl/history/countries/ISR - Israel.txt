@@ -170,14 +170,21 @@
 	recruit_character = ISR_benjamin_netanyahu_char 
 	recruit_character = ISR_isaac_herzog_char
 
-	#recruit_character = ISR_Sharon_Afek_char
-	#recruit_character = ISR_Moti_Almoz_char
-	#recruit_character = ISR_Dan_Goldfus_char
-	#recruit_character = ISR_Tal_Rousso_char
-	#recruit_character = ISR_Avi_Mizrahi_char
-	#recruit_character = ISR_Herzi_Halevi_char
-	#recruit_character = ISR_Aviv_Kochavi_char
-	#recruit_character = ISR_Eran_Ortal_char
+    recruit_character = ISR_reuven_rivlin_char
+	recruit_character = ISR_benjamin_netanyahu_char 
+	recruit_character = ISR_isaac_herzog_char
+	recruit_character = ISR_Sharon_Afek_char
+	recruit_character = ISR_Moti_Almoz_char
+	recruit_character = ISR_Dan_Goldfus_char
+	recruit_character = ISR_Tal_Rousso_char
+	recruit_character = ISR_Avi_Mizrahi_char
+    recruit_character = ISR_Herzi_Halevi_char
+	recruit_character = ISR_Aviv_Kochavi_char
+    recruit_character = ISR_Eran_Ortal_char
+	recruit_character = ISR_Yossi_Bachar_char
+	recruit_character = ISR_David_Saar_Salama_char
+	recruit_character = ISR_Levantive_council_char
+	recruit_character = ISR_Eran_Ortal_char
 	#recruit_character = ISR_Yossi_Bachar_char
 	#recruit_character = ISR_David_Saar_Salama_char
 
